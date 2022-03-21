@@ -1,24 +1,16 @@
 # 2022graphics
 
 Week01  (2022年3月10日 星期四)
-Graphic_Note_Week03
-Step 1 : Download File On GitHub
-    1-1.Download Git-2.30.1-64-bit.exe
 
-
-    1-2.Click "Next" until start install
-
-
-
-    1-3.Open Git Bash
-
-
-    1-4.Download File on Github (annotations are in picture)
-
-
-
-Step 2 : Using Example (Shapes.exe) to Know What We Want to Make.
-    2-1.Download Example (URL:https://jsyeh.org/3dcg10/)
+Week03:
+    Step 1 : Download File On GitHub
+        1-1.Download Git-2.30.1-64-bit.exe
+        1-2.Click "Next" until start install
+        1-3.Open Git Bash
+        1-4.Download File on Github (annotations are in picture)
+    
+    Step 2 : Using Example (Shapes.exe) to Know What We Want to Make.
+        2-1.Download Example (URL:https://jsyeh.org/3dcg10/)
 
 
     2-2.Open Shapes.exe
