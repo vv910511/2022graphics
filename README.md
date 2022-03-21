@@ -45,7 +45,7 @@ Week03  (2022年3月7日 星期四)
     Step 5 : Using CodeBlocks to make a Colorful Solid Triangle
         
         5-1. Coding (annotations are in the picture)
-    
+        
         5-2. Build & Run (Result:A Colorful Solid Triangle)
 
     Step 6 : Upload File (2022graphics) to GitHub
