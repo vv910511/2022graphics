@@ -49,13 +49,13 @@ Week03  (2022年3月7日 星期四)
         5-2. Build & Run (Result:A Colorful Solid Triangle)
 
     Step 6 : Upload File (2022graphics) to GitHub
+        
+        6-1. Move file "week03_color_Triangle" & "week03_color_teapot" to file "2022 graphics"
     
-    6-1. Move file "week03_color_Triangle" & "week03_color_teapot" to file "2022 graphics"
+        6-2.Upload to GitHub
 
-    6-2.Upload to GitHub
+        6-3. Complete
 
-    6-3. Complete
-
-
+Week04  (2022年3月7日 星期四)
 
 
